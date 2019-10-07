@@ -32,9 +32,9 @@ grass = load_image('grass.png')
 character = load_image('animation_sheet.png')
 
 running = True
-x = 0
+x = 20
 frame_x = 0
-frame_y = 100
+frame_y = 200
 direction = 2
 
 while running:
